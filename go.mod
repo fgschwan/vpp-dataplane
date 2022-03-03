@@ -9,6 +9,9 @@ require (
 	github.com/gogo/protobuf v1.3.2
 	github.com/golang/protobuf v1.5.2
 	github.com/lunixbochs/struc v0.0.0-20200707160740-784aaebc1d40
+	github.com/onsi/ginkgo v1.16.4 // indirect
+	github.com/onsi/ginkgo/v2 v2.1.3 // indirect
+	github.com/onsi/gomega v1.18.1 // indirect
 	github.com/orijtech/prometheus-go-metrics-exporter v0.0.6
 	github.com/osrg/gobgp v0.0.0-20210801043420-9e48a36ed97c
 	github.com/pkg/errors v0.9.1
@@ -20,7 +23,7 @@ require (
 	github.com/vishvananda/netlink v1.1.1-0.20210703095558-21f2c55a7727
 	github.com/yookoala/realpath v1.0.0
 	golang.org/x/net v0.0.0-20211216030914-fe4d6282115f
-	golang.org/x/sys v0.0.0-20210816074244-15123e1e1f71
+	golang.org/x/sys v0.0.0-20211216021012-1d35b9e2eb4e
 	google.golang.org/grpc v1.31.0
 	google.golang.org/protobuf v1.26.0
 	gopkg.in/tomb.v2 v2.0.0-20161208151619-d5d1b5820637
